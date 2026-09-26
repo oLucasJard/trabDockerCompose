@@ -2,7 +2,7 @@
 
 Aplicação Django com upload de arquivos, executada em três containers: **Nginx** como proxy reverso, **Django + Gunicorn** como aplicação e **PostgreSQL** como banco de dados. Os arquivos enviados são persistidos em volume nomeado, sobrevivendo à destruição dos containers.
 
-> 📄 **[Documentação Técnica completa](Documentacao_Tecnica_Docker.docx)** — arquitetura, diagramas, justificativa das decisões e análise da solução.
+> 📄 **[Documentação Técnica completa](DocumentaçãoTécnicaG1.docx)** — arquitetura, diagramas, justificativa das decisões e análise da solução.
 
 ---
 
