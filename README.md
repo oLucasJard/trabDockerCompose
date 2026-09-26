@@ -158,4 +158,4 @@ trabDockerCompose/
 
 ## Autor
 
-Lucas Jardim Rocha — trabalho acadêmico da disciplina de Docker e Docker Compose.
+Lucas Jardim Rocha e João Pedro Menezes — trabalho acadêmico da disciplina de Docker e Docker Compose.
